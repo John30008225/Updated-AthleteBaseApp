@@ -1,0 +1,53 @@
+body {
+  background: white;
+}
+
+nav {
+  float: left;
+  width: 100%;
+  padding: 26px;
+  background: red;
+}
+
+nav a {
+  font-size: 32px;
+  padding-left: 16px;
+  padding-right: 16px;
+  color: black;
+}
+
+nav button {
+  border: none;
+}
+
+.description {
+  text-align: center;
+  padding: 20px;
+}
+
+.search {
+  width: 200px;
+}
+
+.login-form {
+  padding: 20px;
+}
+
+.athlete-table {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.athlete-table tr {
+  border: 1px solid black;
+}
+
+.athlete-table tr td {
+  padding: 10px;
+}
+
+.form-fields {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
